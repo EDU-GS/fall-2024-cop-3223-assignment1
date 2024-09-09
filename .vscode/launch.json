@@ -4,7 +4,7 @@
         "name": "(gdb) Launch",
         "type": "cppdbg",
         "request": "launch",
-        "program": "enter program name, for example ${workspaceFolder}/a.out",
+        "program": "/workspaces/fall-2024-cop-3223-assignment1/fracturing.c",
         "args": [],
         "stopAtEntry": false,
         "cwd": "${fileDirname}",
